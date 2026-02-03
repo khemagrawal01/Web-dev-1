@@ -1,0 +1,13 @@
+{
+  "name": "web-dev-1",
+  "version": "1.0.0",
+  "description": "Web development starter project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
